@@ -1,4 +1,4 @@
-module github.com/yangjunyjy/logger 
+module github.com/yangjunyjy/logger
 
 go 1.24.0
 
